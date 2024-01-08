@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ahmed Mady</h1>
-<h3 align="center">A passionate mechatronics engineer with interest in robotics and computer vision</h3>
+<h3 align="center">A passionate Mechatronics Engineer with interest in Robotics and Computer vision</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmadyy" alt="ahmadmadyy" /></a> </p>
 
 - 🌱 I’m currently learning **ROS, Deep Learning, and AI**
 
-- 👯 I’m looking to collaborate on **Robotics Projects**
+- 👯 I’m looking to collaborate on **Robotics projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadmadyy](https://github.com/ahmadmadyy)
 
