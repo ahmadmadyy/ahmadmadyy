@@ -81,23 +81,22 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://www.ros.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="40" height="40"/>
-</a>
-<a href="https://docs.ros.org/en/foxy/index.html" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros2" width="40" height="40"/>
-</a>
-<a href="http://gazebosim.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gazebo_logo.svg/1024px-Gazebo_logo.svg.png" alt="gazebo" width="40" height="40"/>
-</a>
-<a href="http://wiki.ros.org/rviz" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/14564029?s=200&v=4" alt="rviz" width="40" height="40"/>
-</a>
-<a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
-  <img src="https://moveit.ros.org/assets/images/logo/MOVEIT_Logo_White.png" alt="moveit" width="40" height="40"/>
-</a>
-<a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
-  <img src="https://moveit.ros.org/assets/images/logo/MOVEIT_Logo_White.png" alt="moveit2" width="40" height="40"/>
-</a>
-
+  </a>
+  <a href="https://docs.ros.org/en/foxy/index.html" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros2" width="40" height="40"/>
+  </a>
+  <a href="http://gazebosim.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gazebo_logo.svg/1024px-Gazebo_logo.svg.png" alt="gazebo" width="40" height="40"/>
+  </a>
+  <a href="http://wiki.ros.org/rviz" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/14564029?s=200&v=4" alt="rviz" width="40" height="40"/>
+  </a>
+  <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://moveit.ros.org/assets/images/logo/MOVEIT_Logo_White.png" alt="moveit" width="40" height="40"/>
+  </a>
+  <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://moveit.ros.org/assets/images/logo/MOVEIT_Logo_White.png" alt="moveit2" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadmadyy&show_icons=true&locale=en&layout=compact" alt="ahmadmadyy" /></p>
