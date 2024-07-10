@@ -52,12 +52,6 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
@@ -79,18 +73,31 @@ Here are some ideas to get you started:
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> 
-  </a>
+  <a href="https://www.ros.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="40" height="40"/>
+</a>
+<a href="https://docs.ros.org/en/foxy/index.html" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros2" width="40" height="40"/>
+</a>
+<a href="http://gazebosim.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Gazebo_logo.svg/1024px-Gazebo_logo.svg.png" alt="gazebo" width="40" height="40"/>
+</a>
+<a href="http://wiki.ros.org/rviz" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/14564029?s=200&v=4" alt="rviz" width="40" height="40"/>
+</a>
+<a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
+  <img src="https://moveit.ros.org/assets/images/logo/MOVEIT_Logo_White.png" alt="moveit" width="40" height="40"/>
+</a>
+<a href="https://moveit.ros.org/" target="_blank" rel="noreferrer">
+  <img src="https://moveit.ros.org/assets/images/logo/MOVEIT_Logo_White.png" alt="moveit2" width="40" height="40"/>
+</a>
+
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadmadyy&show_icons=true&locale=en&layout=compact" alt="ahmadmadyy" /></p>
