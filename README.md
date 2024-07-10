@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmadyy" alt="ahmadmadyy" /></a> </p>
 
-- 🔭 I’m currently learning **working on my Masters degree at F**AU Erlangen Nürnberg**
+- 🔭 I’m currently learning **working on my Masters degree at FAU Erlangen Nürnberg**
 
 - 🌱 I’m currently working with **ROS2**
 
