@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,17 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ahmed Mady</h1>
-<h3 align="center">A passionate Mechatronics Engineer with interest in Robotics and Computer vision</h3>
+<h3 align="center">A passionate Mechatronics Engineer with interest in Robotics and Autonomous Systems</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmadyy" alt="ahmadmadyy" /></a> </p>
 
-- 🌱 I’m currently learning **Robotics, Computer Vision and Control Systems**
+- 🔭 I’m currently learning **working on my Masters degree at F**AU Erlangen Nürnberg**
+
+- 🌱 I’m currently working with **ROS2**
 
 - 👯 I’m looking to collaborate on **Robotics projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadmadyy](https://github.com/ahmadmadyy)
 
-- 💬 Ask me about **Robotics, Computer Vision, Control and Autonomous Systems**
+- 💬 Ask me about **Robotics, Control and Autonomous Systems**
 
 - 📫 How to reach me **madyahmad19@gmail.com**
 
