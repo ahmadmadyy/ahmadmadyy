@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Eng. Ahmed Mady</h1>
-<h3 align="center">A passionate Mechatronics Engineer with interest in Robotics and Autonomous Systems</h3>
+<h3 align="center">A passionate Robotics & Mechatronics Engineer with interest in Robotics and Autonomous Systems</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmadyy" alt="ahmadmadyy" /></a> </p>
 
 - 🔭 I’m currently **working on my Masters degree at FAU Erlangen Nürnberg**
 
-- 📖 My current Seminar topic is **Model Predictive Control for Multi-Agent Cooperative Systems for Autonomous Driving**
+- 💻 My current Job is at **Lemvos GmbH** as a **Robotics Software Engineer**
+
+- 📖 My Masters thesis topic incorporates **GenAI & RL with Robotics**
 
 - 🌱 I’m currently working with **ROS2**
 
