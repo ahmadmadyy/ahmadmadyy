@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently **working on my Masters degree at FAU Erlangen Nürnberg**
 
-- 💻 My current Job is at **Lemvos GmbH** as a **Robotics Software Engineer**
+- 💻 My current Job is at **Siemens AG** as a **Robotics Software Engineer**
 
 - 📖 My Masters thesis topic incorporates **GenAI & RL with Robotics**
 
-- 🌱 I’m currently working with **ROS2**
+- 🌱 I’m currently working with **Humaniod Robots and 3D Localization**
 
 - 👯 I’m looking to collaborate on **Robotics projects**
 
