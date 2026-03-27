@@ -2,6 +2,10 @@
 <h3 align="center">Robotics Software Engineer | Autonomous Systems | ROS 2 | AI</h3>
 
 <p align="center">
+  <img src="YOUR_IMAGE_LINK" width="180" style="border-radius:50%">
+</p>
+
+<p align="center">
 M.Sc. Robotics & AI student at FAU Erlangen-Nürnberg and Robotics Engineer working on autonomous systems, robot manipulation, and AI-driven robotics.
 </p>
 
