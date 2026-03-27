@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Eng. Ahmed Mady</h1>
 <h3 align="center">A passionate Robotics & Mechatronics Engineer with interest in Robotics and Autonomous Systems</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmadyy" alt="ahmadmadyy" /></a> </p>
+
 - 🔭 I’m currently **working on my Masters degree at FAU Erlangen Nürnberg**
 
 - 💻 My current Job is at **Siemens AG** as a **Robotics Software Engineer**
