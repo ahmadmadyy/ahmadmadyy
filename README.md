@@ -1,93 +1,96 @@
-<!--
-**ahmadmadyy/ahmadmadyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Ahmed Mady</h1>
+<h3 align="center">Robotics Software Engineer | Autonomous Systems | ROS 2 | AI</h3>
 
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Eng. Ahmed Mady</h1>
-<h3 align="center">A passionate Robotics & Mechatronics Engineer with interest in Robotics and Autonomous Systems</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmadyy" alt="ahmadmadyy" /></a> </p>
-
-- 🔭 I’m currently **working on my Masters degree at FAU Erlangen Nürnberg**
-
-- 💻 My current Job is at **Siemens AG** as a **Robotics Software Engineer**
-
-- 📖 My Masters thesis topic incorporates **GenAI & RL with Robotics**
-
-- 🌱 I’m currently working with **Humaniod Robots and 3D Localization**
-
-- 👯 I’m looking to collaborate on **Robotics projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ahmadmadyy](https://github.com/ahmadmadyy)
-
-- 💬 Ask me about **Robotics, Control and Autonomous Systems**
-
-- 📫 How to reach me **madyahmad19@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-mady-am19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-mady-am19" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed mady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed mady" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmadmadyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmadmadyy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ahmadmady1387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ahmadmady1387" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/madyahmad19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madyahmad19" height="30" width="40" /></a>
+<p align="center">
+M.Sc. Robotics & AI student at FAU Erlangen-Nürnberg and Robotics Engineer working on autonomous systems, robot manipulation, and AI-driven robotics.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.ros.org" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="40" height="40"/>
-  </a>
+---
+
+## 👨‍💻 About Me
+- 🎓 M.Sc. Robotics & Artificial Intelligence – FAU Erlangen-Nürnberg
+- 💼 Robotics Working Student – Siemens AG (Autonomous Systems)
+- 🤖 Research Assistant – Robotic Manipulation (Fraunhofer IGCV)
+- 🧠 Interested in Robotics, Autonomous Systems, AI, Reinforcement Learning, and Generative AI
+- 🦾 Working with ROS 2, Navigation, SLAM, Manipulation, and Multi-Robot Systems
+- 📫 Email: madyahmad19@gmail.com
+
+---
+
+## 🚀 Technical Skills
+
+### Robotics
+- ROS 2
+- Navigation (Nav2)
+- MoveIt 2
+- SLAM & Localization
+- Multi-Robot Systems
+- Behavior Trees
+- Robot Manipulation
+- Fleet Management (OpenRMF, VDA 5050)
+- Isaac Sim / Digital Twins
+
+### Programming
+- C++
+- Python
+- C
+- Bash
+- Docker
+- Git
+- Linux
+
+### Embedded Systems
+- STM32
+- ARM Cortex
+- Jetson Orin
+- Raspberry Pi
+- FreeRTOS
+- CANopen
+- ROS 2 Control
+
+### AI & Machine Learning
+- PyTorch
+- TensorFlow
+- Reinforcement Learning
+- Computer Vision
+- Transformers
+- Multimodal LLMs for Robotics
+
+---
+
+## 📂 Selected Projects
+
+| Project | Description | Technologies |
+|--------|-------------|-------------|
+| Humanoid & AGV Fleet Management | Multi-robot fleet control and task coordination | ROS 2, OpenRMF, SIMOVE |
+| 3D Localization Benchmarking | Compared SLAM and LiDAR localization methods | FAST-LIO, RTAB-Map, MOLA |
+| UR5 Manipulation with LLM Planning | Language-to-motion robotic manipulation | ROS 2, MoveIt 2, NVIDIA Cosmos |
+| ROS 2 CANopen Hardware Interface | Embedded motor control interface | C++, ROS 2 Control, CANopen |
+| Autonomous Mobile Robot | Navigation, SLAM, path planning | ROS 2, Nav2, A*, Pure Pursuit |
+| Industrial Robot Digital Twin | 6-DOF robot arm simulation | MoveIt 2, Gazebo, URDF |
+| Vision-based Bicopter Balancing | Computer vision control system | Python, OpenCV |
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadmadyy&show_icons=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadmadyy">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadmadyy&show_icons=true&locale=en&layout=compact" alt="ahmadmadyy" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadmadyy&" alt="ahmadmadyy" /></p>
+## 🌐 Connect With Me
+- LinkedIn: https://linkedin.com/in/ahmed-mady-am19
+- GitHub: https://github.com/ahmadmadyy
+- Email: madyahmad19@gmail.com
+
+---
+
+## 🔭 Current Focus
+- Autonomous robot navigation
+- Robot manipulation with AI and LLMs
+- Multi-robot fleet systems
+- Reinforcement learning for robotics
+- SLAM and localization
+- Cloud robotics & AI platforms
